@@ -1,4 +1,4 @@
 # testeRemoto
 Primeira Aula
 
-Lucas Sousa Oliveira
+Lucas Sousa Oliveira - Programador Sênior
